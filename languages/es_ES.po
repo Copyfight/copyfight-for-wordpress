@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Copyfight\n"
+"POT-Creation-Date: 2016-03-02 17:21+0100\n"
+"PO-Revision-Date: 2016-03-02 17:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: Copyfight <info@copyfight.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;esc_html__;__;__ngettext;__ngettext_noop;_n;"
+"_n_noop;_c;_nc;_x;_ex;_nx;_nx_noop;esc_html_x;esc_html_e;esc_attr_x;"
+"esc_attr_e;esc_attr__;__ngettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.copyfight-admin.php:48
+msgid "Error: empty API Key field"
+msgstr "Error: API vacío campo Clave"
+
+#: class.copyfight-admin.php:81 class.copyfight-admin.php:278
+msgid "Settings"
+msgstr "Ajustes"
+
+#: class.copyfight-admin.php:87 class.copyfight-admin.php:150
+#: class.copyfight-admin.php:161
+msgid "Copyfight"
+msgstr "Copyfight"
+
+#: class.copyfight-admin.php:267
+msgid "Overview"
+msgstr "Visión de conjunto"
+
+#: class.copyfight-admin.php:269 class.copyfight-admin.php:280
+#: class.copyfight-admin.php:290
+msgid "Copyfight Configuration"
+msgstr "Copyfight Configuración"
+
+#: class.copyfight-admin.php:270
+msgid ""
+"Copyfight protects your content, so you can focus on more important things."
+msgstr ""
+"Copyfight protege su contenido, para que pueda centrarse en cosas más "
+"importantes."
+
+#: class.copyfight-admin.php:271
+msgid ""
+"On this page, you are able to enter/remove an API key, view account "
+"information and view stats."
+msgstr ""
+"En esta página, usted es capaz de introducir / eliminar una clave de API, "
+"ver la información de la cuenta y ver las estadísticas."
+
+#: class.copyfight-admin.php:281 views/config.php:10
+msgid "API Key"
+msgstr "API Clave"
+
+#: class.copyfight-admin.php:281
+msgid "Enter/remove an API key."
+msgstr "Introducir / eliminar una clave de API."
+
+#: class.copyfight-admin.php:288
+msgid "Account"
+msgstr "Cuenta"
+
+#: class.copyfight-admin.php:291
+msgid "Subscription Type"
+msgstr "Tipo de suscripción"
+
+#: class.copyfight-admin.php:291
+msgid "The Copyfight subscription plan"
+msgstr "El plan de suscripción Copyfight"
+
+#: class.copyfight-admin.php:292
+msgid "Status"
+msgstr "Estado"
+
+#: class.copyfight-admin.php:292
+msgid "The subscription status - active, cancelled or suspended"
+msgstr "El estado de suscripción - activo, cancelado o suspendido"
+
+#: class.copyfight-admin.php:297
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: class.copyfight-admin.php:298
+msgid "Copyfight FAQ"
+msgstr "Copyfight FAQ"
+
+#: class.copyfight-admin.php:299
+msgid "Copyfight Support"
+msgstr "Soporte Copyfight"
+
+#: class.copyfight.php:82 class.copyfight.php:91
+msgid ""
+"There is no content because this is a <a target=\"_blank\" href=\"https://"
+"getcopyfight.com/\">Copyfight</a> protected post."
+msgstr ""
+"No hay contenido porque este es un target=\"_blank\" <a href=\"https://"
+"getcopyfight.com/\">Copyfight</a> protegida puesto."
+
+#: views/config.php:15
+msgid "Activate Copyfight"
+msgstr "Activar Copyfight"
+
+#: views/config.php:16
+msgid "Manually enter your API key or enter your email"
+msgstr ""
+"Introducir manualmente la clave de API o introducir su correo electrónico"
+
+#: views/config.php:19
+msgid "Receive email updates about Copyfight"
+msgstr "Recibe alertas sobre Derechos de Copyfight"
+
+#: views/config.php:23
+msgid "Reset API Key"
+msgstr "Resto clave de API"
+
+#: views/config.php:28
+msgid "Default settings"
+msgstr "Configuración por defecto"
+
+#: views/config.php:31
+msgid "Default typeface"
+msgstr "Tipo de letra predeterminado"
+
+#: views/notice.php:6
+msgid "Activate your Copyfight account"
+msgstr "Active su cuenta Copyfight"
+
+#: views/notice.php:9
+msgid ""
+"<strong>Almost done</strong> - activate Copyfight and protect your content"
+msgstr ""
+"<Strong> Casi hecho </ strong> - activar Copyfight y proteger su contenido"
+
+#: views/plans.php:3
+msgid "Subscription plans"
+msgstr ""
+
+#: views/plans.php:26
+msgid "USD"
+msgstr ""
+
+#: views/referral_program.php:1
+msgid "Referral program"
+msgstr "Programa de referencia"
+
+#: views/referral_program.php:5
+msgid ""
+"Word of mouth is one of the most powerful ways that we have been able to "
+"grow our business."
+msgstr ""
+"El boca a boca es una de las formas más potentes que hemos sido capaces de "
+"hacer crecer nuestro negocio."
+
+#: views/referral_program.php:6
+msgid ""
+"So, when customers help us spread the word, we like to give something back."
+msgstr ""
+"Por lo tanto, cuando los clientes nos ayudan a difundir la palabra, nos "
+"gusta dar algo a cambio."
+
+#: views/referral_program.php:7
+msgid "Share the link below with your friends."
+msgstr "Comparte el enlace de abajo con tus amigos."
+
+#: views/referral_program.php:8
+msgid ""
+"All new customers that you refer, get a bonus when they create a Copyfight "
+"account and you get a bonus too."
+msgstr ""
+"Todos los nuevos clientes que usted se refiere, reciben una bonificación "
+"cuando crean una cuenta de derechos de autor y se obtiene una ventaja."
+
+#: views/referral_program.php:12
+msgid "Your referral link:"
+msgstr "Su vínculo de referencia:"
+
+#: views/referral_program.php:19
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: views/referral_program.php:20
+msgid "Tweet on Twitter"
+msgstr "Tweet en Twitter"
+
+#: views/referral_program.php:21
+msgid "Earn a bonus by signing up for a Copyfight account today!"
+msgstr "Gane un bono mediante la firma de una cuenta Copyfight hoy!"
+
+#: views/referral_program.php:21
+msgid ""
+"Hello, I have been using Copyfight to protect my content and they have been "
+"awesome. Earn a bonus by signing up at the link below. Copyfight gives you a "
+"bonus too!"
+msgstr ""
+"Hola, He estado usando derechos de autor para proteger el contenido de mi y "
+"han sido impresionantes. Gane un bono por registrarse en el siguiente "
+"enlace. Copyfight le da una ventaja también!"
+
+#: views/referral_program.php:22
+msgid "Invite via email"
+msgstr "Invite a través de correo electrónico"
+
+#: views/referral_program.php:33
+msgid "Date"
+msgstr "Fecha"
+
+#: views/referral_program.php:34
+msgid "ID"
+msgstr "ID"
+
+#: views/referral_program.php:35
+msgid "Type"
+msgstr "Tipo"
+
+#: views/referral_program.php:36
+msgid "Added"
+msgstr "Adicional"
+
+#: views/referral_program.php:37
+msgid "Bonus"
+msgstr "Prima"
+
+#: views/referral_program.php:43
+msgid "Your bonus earnings will appear here."
+msgstr "Sus ganancias de bonificación aparecerán aquí."
+
+#: views/referral_program.php:55
+msgid ""
+"By using your personal referral link, you accept the Terms and Conditions "
+"for the Copyfight referral program"
+msgstr ""
+"Mediante el uso de su vínculo de referencia personal, usted acepta los "
+"términos y condiciones para el programa de referencia Copyfight"
+
+#~ msgid "Failed to create cache folder..."
+#~ msgstr "No se pudo crear la carpeta de caché..."
+
+#~ msgid "Typeface"
+#~ msgstr "Tipo de letra"
