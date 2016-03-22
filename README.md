@@ -8,8 +8,7 @@ Contributors:       Christopher Starke, Roman Macek, Marcus Juhl, Farhan Burns, 
 
 Donate link:        https://getcopyfight.com/
 
-Tags:               copyright, copyfight, copy, protection, copy protect, copy 
-protection, content theft, anti plagiarism, duplicate, duplicate content
+Tags:               copyright, copyfight, copy, protection, copy protect, copy protection, content theft, anti plagiarism, duplicate, duplicate content
 
 Requires at least:  3.3.0
 
