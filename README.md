@@ -89,4 +89,4 @@ Check the Copyfight website for the changelog: https://getcopyfight.com/changelo
 
 == Upgrade Notice ==
 
-Check the Copyfight website for the latest upgrade notices: https://getcopyfight.com/Upgrades/
+Check the Copyfight website for the latest upgrade notices: https://getcopyfight.com/upgrades/
