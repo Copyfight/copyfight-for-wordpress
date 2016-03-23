@@ -63,11 +63,17 @@ the most important keywords.
 == Installation ==
 
 Install Copyfight using the built-in plugin installer:
+
 1. Go to https://github.com/Copyfight/copyfight-for-wordpress
+
 2. Download the zip file for the latest version
+
 3. Unpack the contents of the zip file
+
 4. Upload the unpacked content to your WordPress plugins folder
+
 5. Activate the plugin
+
 
 After activation none of your existing posts and pages are protected by default. First you'll have to request or fill in
 a valid API Key and select a Default font. Updated and newly created posts and pages will be protected by default after
