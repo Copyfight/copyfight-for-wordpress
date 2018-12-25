@@ -6,7 +6,7 @@
                     <input type="submit" class="aa_button" value="<?php esc_attr_e( 'Activate your Copyfight account', 'copyfight' ); ?>" />
                 </div>
             </div>
-            <div class="aa_description"><?php _e('<strong>Almost done</strong> - activate Copyfight and protect your content', 'copyfight');?></div>
+            <div class="aa_description"><?php _e( '<strong>Almost done</strong> - activate Copyfight and protect your content', 'copyfight' );?></div>
         </div>
     </form>
 </div>

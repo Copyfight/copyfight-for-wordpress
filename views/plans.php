@@ -2,14 +2,14 @@
 
     <h3><?php _e('Subscription plans', 'copyfight'); ?></h3>
 
-    <div class="donate"><?php _e('Appreciate our work? Please consider making a donation.', 'copyfight'); ?></div>
-
-    <img id="free_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight_freemium_plan.png" />
-    <img id="premium_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight_premium_plan.png" />
-    <img id="business_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight_business_plan.png" />
-    <img id="enterprise_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight_enterprise_plan.png" />
+    <img id="free_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight-freemium-plan.png" />
+    <img id="premium_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight-premium-plan.png" />
+    <img id="business_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight-business-plan.png" />
+    <img id="enterprise_plan" src="<?php echo COPYFIGHT_PLUGIN_URL; ?>_inc/img/copyfight-enterprise-plan.png" />
 
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="subscription_plan" style="display:none;">
+
+        <input type="hidden" name="hosted_button_id" value="D3CJK5E73NCFU">
 
         <input type="hidden" name="on0" value="">
         <select name="os0" id="selected_plan">
@@ -27,8 +27,8 @@
         <input type="text" name="os2" value="<?php echo $current_user->user_email; ?> | <?php echo get_site_url(); ?>" >
 
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="return" id="return" value="<?php echo get_site_url() . '/wp-admin/options-general.php?page=copyfight'; ?>">
-        <input type="hidden" name="currency_code" value="<?php _e('USD', 'copyfight'); ?>">
+        <input type="hidden" name="return" id="return" value="<?php echo get_admin_url() . 'options-general.php?page=copyfight'; ?>">
+        <input type="hidden" name="currency_code" value="USD">
         <input type="hidden" name="business" value="info@getcopyfight.com">
         <input type="hidden" name="charset" value="utf-8">
 
